@@ -1,1 +1,1 @@
-# hackerrank-30Days-of-Code
+# Hackerrank 30 days of code challenge by python.
